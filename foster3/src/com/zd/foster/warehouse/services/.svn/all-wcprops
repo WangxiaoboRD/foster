@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/warehouse/services
+END
+IMaterialOutWareService.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/warehouse/services/IMaterialOutWareService.java
+END
+IDrugTransferService.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/warehouse/services/IDrugTransferService.java
+END
+IDrugInWareService.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/warehouse/services/IDrugInWareService.java
+END
+IDrugAllocationService.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/warehouse/services/IDrugAllocationService.java
+END
+IDrugOutWareService.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/warehouse/services/IDrugOutWareService.java
+END
+IDrugBillDtlService.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/warehouse/services/IDrugBillDtlService.java
+END
+IFeedTransferService.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/warehouse/services/IFeedTransferService.java
+END
+IMaterialInWareDtlService.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/warehouse/services/IMaterialInWareDtlService.java
+END
+IFeedInWareService.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/warehouse/services/IFeedInWareService.java
+END
+IMaterialOutWareDtlService.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/warehouse/services/IMaterialOutWareDtlService.java
+END
+IDrugTransferDtlService.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/warehouse/services/IDrugTransferDtlService.java
+END
+IFeedOutWareService.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/warehouse/services/IFeedOutWareService.java
+END
+IDrugInWareDtlService.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/warehouse/services/IDrugInWareDtlService.java
+END
+IDrugAllocationDtlService.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/warehouse/services/IDrugAllocationDtlService.java
+END
+IDrugOutWareDtlService.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/warehouse/services/IDrugOutWareDtlService.java
+END
+IFeedTransferDtlService.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/warehouse/services/IFeedTransferDtlService.java
+END
+IFeedInWareDtlService.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/warehouse/services/IFeedInWareDtlService.java
+END
+IDrugWarehouseFarService.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/warehouse/services/IDrugWarehouseFarService.java
+END
+IFeedOutWareDtlService.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/warehouse/services/IFeedOutWareDtlService.java
+END
+IMaterialWarehouseService.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/warehouse/services/IMaterialWarehouseService.java
+END
+IDrugWarehouseService.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/warehouse/services/IDrugWarehouseService.java
+END
+IFeedWarehouseService.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/warehouse/services/IFeedWarehouseService.java
+END
+IDrugBillService.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/warehouse/services/IDrugBillService.java
+END
+IMaterialInWareService.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/warehouse/services/IMaterialInWareService.java
+END

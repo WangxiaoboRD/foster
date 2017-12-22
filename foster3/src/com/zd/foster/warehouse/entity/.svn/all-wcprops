@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/warehouse/entity
+END
+DrugBill.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/warehouse/entity/DrugBill.java
+END
+MaterialInWare.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/warehouse/entity/MaterialInWare.java
+END
+MaterialOutWare.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/warehouse/entity/MaterialOutWare.java
+END
+DrugTransfer.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/warehouse/entity/DrugTransfer.java
+END
+DrugInWare.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/warehouse/entity/DrugInWare.java
+END
+DrugAllocation.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/warehouse/entity/DrugAllocation.java
+END
+DrugOutWare.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/warehouse/entity/DrugOutWare.java
+END
+DrugBillDtl.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/warehouse/entity/DrugBillDtl.java
+END
+FeedTransfer.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/warehouse/entity/FeedTransfer.java
+END
+MaterialInWareDtl.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/warehouse/entity/MaterialInWareDtl.java
+END
+FeedInWare.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/warehouse/entity/FeedInWare.java
+END
+MaterialOutWareDtl.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/warehouse/entity/MaterialOutWareDtl.java
+END
+FeedOutWare.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/warehouse/entity/FeedOutWare.java
+END
+DrugTransferDtl.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/warehouse/entity/DrugTransferDtl.java
+END
+DrugInWareDtl.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/warehouse/entity/DrugInWareDtl.java
+END
+DrugAllocationDtl.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/warehouse/entity/DrugAllocationDtl.java
+END
+DrugOutWareDtl.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/warehouse/entity/DrugOutWareDtl.java
+END
+FeedTransferDtl.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/warehouse/entity/FeedTransferDtl.java
+END
+FeedInWareDtl.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/warehouse/entity/FeedInWareDtl.java
+END
+DrugWarehouseFar.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/warehouse/entity/DrugWarehouseFar.java
+END
+FeedOutWareDtl.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/warehouse/entity/FeedOutWareDtl.java
+END
+MaterialWarehouse.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/warehouse/entity/MaterialWarehouse.java
+END
+DrugWarehouse.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/warehouse/entity/DrugWarehouse.java
+END
+FeedWarehouse.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/warehouse/entity/FeedWarehouse.java
+END

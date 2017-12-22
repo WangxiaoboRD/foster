@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/log/entity
+END
+ExceptionLog.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/log/entity/ExceptionLog.java
+END
+ModifyLogObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/log/entity/ModifyLogObject.java
+END
+OperateLog.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/log/entity/OperateLog.java
+END
+LogMethod.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/log/entity/LogMethod.java
+END
+LogType.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/log/entity/LogType.java
+END
+LogClass.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/log/entity/LogClass.java
+END
+ModifyLog.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/log/entity/ModifyLog.java
+END
+LoginLog.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/log/entity/LoginLog.java
+END
+BussOperateLog.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/log/entity/BussOperateLog.java
+END

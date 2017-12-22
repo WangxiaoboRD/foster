@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/check/dao/impl
+END
+CheckDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/check/dao/impl/CheckDaoImpl.java
+END
+CheckRoleDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/check/dao/impl/CheckRoleDaoImpl.java
+END
+CheckBillDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/check/dao/impl/CheckBillDaoImpl.java
+END
+CheckBillStateDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/check/dao/impl/CheckBillStateDaoImpl.java
+END

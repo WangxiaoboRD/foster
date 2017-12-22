@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/base/services
+END
+ITechnicianService.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/base/services/ITechnicianService.java
+END
+ICompanyService.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/base/services/ICompanyService.java
+END
+IGrowStandService.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/base/services/IGrowStandService.java
+END
+IFcrService.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/base/services/IFcrService.java
+END
+IGrowStandDtlService.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/base/services/IGrowStandDtlService.java
+END
+IFarmerService.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/base/services/IFarmerService.java
+END
+IFeedFacService.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/base/services/IFeedFacService.java
+END
+ITransportCoService.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/base/services/ITransportCoService.java
+END
+ICustVenderService.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/base/services/ICustVenderService.java
+END
+IVarietyService.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/base/services/IVarietyService.java
+END
+ITechBatchService.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/base/services/ITechBatchService.java
+END
+IDevelopManService.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/base/services/IDevelopManService.java
+END
+IDriverService.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/base/services/IDriverService.java
+END
+IDeathReasonService.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/base/services/IDeathReasonService.java
+END
+IDeathReasonTypeService.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/base/services/IDeathReasonTypeService.java
+END
+ISysConfigService.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/base/services/ISysConfigService.java
+END

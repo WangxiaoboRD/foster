@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/base
+END
+BaseDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/base/BaseDaoImpl.java
+END
+IBaseService.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/base/IBaseService.java
+END
+BaseEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/base/BaseEntity.java
+END
+IBaseDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/base/IBaseDao.java
+END
+BaseAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/base/BaseAction.java
+END
+Base.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/base/Base.java
+END
+BaseServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/base/BaseServiceImpl.java
+END

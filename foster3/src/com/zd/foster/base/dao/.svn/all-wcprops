@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/base/dao
+END
+ISysConfigDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/base/dao/ISysConfigDao.java
+END
+ITechnicianDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/base/dao/ITechnicianDao.java
+END
+ICompanyDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/base/dao/ICompanyDao.java
+END
+IGrowStandDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/base/dao/IGrowStandDao.java
+END
+IFcrDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/base/dao/IFcrDao.java
+END
+IGrowStandDtlDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/base/dao/IGrowStandDtlDao.java
+END
+IFarmerDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/base/dao/IFarmerDao.java
+END
+IFeedFacDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/base/dao/IFeedFacDao.java
+END
+ITransportCoDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/base/dao/ITransportCoDao.java
+END
+ICustVenderDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/base/dao/ICustVenderDao.java
+END
+IVarietyDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/base/dao/IVarietyDao.java
+END
+ITechBatchDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/base/dao/ITechBatchDao.java
+END
+IDevelopManDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/base/dao/IDevelopManDao.java
+END
+IDriverDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/base/dao/IDriverDao.java
+END
+IDeathReasonDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/base/dao/IDeathReasonDao.java
+END
+IDeathReasonTypeDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/base/dao/IDeathReasonTypeDao.java
+END

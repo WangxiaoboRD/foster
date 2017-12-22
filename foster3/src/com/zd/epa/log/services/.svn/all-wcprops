@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/log/services
+END
+ILogClassService.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/log/services/ILogClassService.java
+END
+IModifyLogService.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/log/services/IModifyLogService.java
+END
+ILoginLogService.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/log/services/ILoginLogService.java
+END
+IBussOperateLogService.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/log/services/IBussOperateLogService.java
+END
+IExceptionLogService.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/log/services/IExceptionLogService.java
+END
+IModifyLogObjectService.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/log/services/IModifyLogObjectService.java
+END
+IOperateLogService.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/log/services/IOperateLogService.java
+END
+ILogMethodService.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/log/services/ILogMethodService.java
+END
+ILogTypeService.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/log/services/ILogTypeService.java
+END

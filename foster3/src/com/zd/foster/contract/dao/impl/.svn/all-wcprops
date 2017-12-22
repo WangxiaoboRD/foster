@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/contract/dao/impl
+END
+ContractDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/contract/dao/impl/ContractDaoImpl.java
+END
+ContractPigPricedDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/contract/dao/impl/ContractPigPricedDaoImpl.java
+END
+ContractFeedPricedDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/contract/dao/impl/ContractFeedPricedDaoImpl.java
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/contract/services
+END
+IContractFeedPricedService.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/contract/services/IContractFeedPricedService.java
+END
+IContractService.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/contract/services/IContractService.java
+END
+IContractPigPricedService.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/contract/services/IContractPigPricedService.java
+END

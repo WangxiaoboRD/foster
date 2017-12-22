@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/permission/services
+END
+IAuthFieldService.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/permission/services/IAuthFieldService.java
+END
+IAuthObjService.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/permission/services/IAuthObjService.java
+END
+IUserAuthValueService.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/permission/services/IUserAuthValueService.java
+END
+IBussObjAuthPropertyService.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/permission/services/IBussObjAuthPropertyService.java
+END
+IItemService.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/permission/services/IItemService.java
+END
+IRoleAuthValueService.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/permission/services/IRoleAuthValueService.java
+END
+IRoleService.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/permission/services/IRoleService.java
+END
+IUsersService.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/permission/services/IUsersService.java
+END
+IRoleAuthValueDetailService.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/permission/services/IRoleAuthValueDetailService.java
+END

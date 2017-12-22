@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/permission/services/impl
+END
+AuthObjServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/permission/services/impl/AuthObjServiceImpl.java
+END
+UserAuthValueServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/permission/services/impl/UserAuthValueServiceImpl.java
+END
+BussObjAuthPropertyServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/permission/services/impl/BussObjAuthPropertyServiceImpl.java
+END
+ItemServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/permission/services/impl/ItemServiceImpl.java
+END
+RoleAuthValueServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/permission/services/impl/RoleAuthValueServiceImpl.java
+END
+RoleServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/permission/services/impl/RoleServiceImpl.java
+END
+UsersServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/permission/services/impl/UsersServiceImpl.java
+END
+RoleAuthValueDetailServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/permission/services/impl/RoleAuthValueDetailServiceImpl.java
+END
+AuthFieldServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/permission/services/impl/AuthFieldServiceImpl.java
+END

@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/warehouse/dao
+END
+IDrugBillDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/warehouse/dao/IDrugBillDao.java
+END
+IMaterialInWareDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/warehouse/dao/IMaterialInWareDao.java
+END
+IMaterialOutWareDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/warehouse/dao/IMaterialOutWareDao.java
+END
+IDrugTransferDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/warehouse/dao/IDrugTransferDao.java
+END
+IDrugInWareDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/warehouse/dao/IDrugInWareDao.java
+END
+IDrugAllocationDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/warehouse/dao/IDrugAllocationDao.java
+END
+IDrugOutWareDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/warehouse/dao/IDrugOutWareDao.java
+END
+IDrugBillDtlDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/warehouse/dao/IDrugBillDtlDao.java
+END
+IFeedTransferDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/warehouse/dao/IFeedTransferDao.java
+END
+IMaterialInWareDtlDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/warehouse/dao/IMaterialInWareDtlDao.java
+END
+IFeedInWareDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/warehouse/dao/IFeedInWareDao.java
+END
+IMaterialOutWareDtlDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/warehouse/dao/IMaterialOutWareDtlDao.java
+END
+IFeedOutWareDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/warehouse/dao/IFeedOutWareDao.java
+END
+IDrugTransferDtlDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/warehouse/dao/IDrugTransferDtlDao.java
+END
+IDrugInWareDtlDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/warehouse/dao/IDrugInWareDtlDao.java
+END
+IDrugAllocationDtlDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/warehouse/dao/IDrugAllocationDtlDao.java
+END
+IDrugOutWareDtlDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/warehouse/dao/IDrugOutWareDtlDao.java
+END
+IFeedTransferDtlDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/warehouse/dao/IFeedTransferDtlDao.java
+END
+IFeedInWareDtlDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/warehouse/dao/IFeedInWareDtlDao.java
+END
+IDrugWarehouseFarDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/warehouse/dao/IDrugWarehouseFarDao.java
+END
+IFeedOutWareDtlDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/warehouse/dao/IFeedOutWareDtlDao.java
+END
+IMaterialWarehouseDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/warehouse/dao/IMaterialWarehouseDao.java
+END
+IDrugWarehouseDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/warehouse/dao/IDrugWarehouseDao.java
+END
+IFeedWarehouseDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/warehouse/dao/IFeedWarehouseDao.java
+END

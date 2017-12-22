@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/balance/actions
+END
+CompanyOtherCostAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/balance/actions/CompanyOtherCostAction.java
+END
+CompanyPigletCostAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/balance/actions/CompanyPigletCostAction.java
+END
+CompanySaleIncomeAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/balance/actions/CompanySaleIncomeAction.java
+END
+FarmerOtherCostAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/balance/actions/FarmerOtherCostAction.java
+END
+CompanyBillAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/balance/actions/CompanyBillAction.java
+END
+FarmerRewardCostAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/balance/actions/FarmerRewardCostAction.java
+END
+FarmerPigletCostAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/balance/actions/FarmerPigletCostAction.java
+END
+FarmerDrugsCostAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/balance/actions/FarmerDrugsCostAction.java
+END
+CompanyBalanceAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/balance/actions/CompanyBalanceAction.java
+END
+FarmerSaleIncomeAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/balance/actions/FarmerSaleIncomeAction.java
+END
+FarmerBillAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/balance/actions/FarmerBillAction.java
+END
+CompanyFreightAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/balance/actions/CompanyFreightAction.java
+END
+CompanyDrugCostAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/balance/actions/CompanyDrugCostAction.java
+END
+FarmerBalanceAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/balance/actions/FarmerBalanceAction.java
+END
+CompanyFeedCostAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/balance/actions/CompanyFeedCostAction.java
+END
+FarmerFeedCostAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/balance/actions/FarmerFeedCostAction.java
+END

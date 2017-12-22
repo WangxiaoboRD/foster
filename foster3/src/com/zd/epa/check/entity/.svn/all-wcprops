@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/check/entity
+END
+CheckRole.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/check/entity/CheckRole.java
+END
+CheckBill.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/check/entity/CheckBill.java
+END
+CheckBillState.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/check/entity/CheckBillState.java
+END
+Check.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/check/entity/Check.java
+END
+CheckState.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/check/entity/CheckState.java
+END

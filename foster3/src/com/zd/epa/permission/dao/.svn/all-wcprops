@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/permission/dao
+END
+IRoleAuthValueDetailDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/permission/dao/IRoleAuthValueDetailDao.java
+END
+IAuthFieldDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/permission/dao/IAuthFieldDao.java
+END
+IAuthObjDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/permission/dao/IAuthObjDao.java
+END
+IUserAuthValueDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/permission/dao/IUserAuthValueDao.java
+END
+IBussObjAuthPropertyDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/permission/dao/IBussObjAuthPropertyDao.java
+END
+IItemDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/permission/dao/IItemDao.java
+END
+IRoleAuthValueDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/permission/dao/IRoleAuthValueDao.java
+END
+IRoleDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/permission/dao/IRoleDao.java
+END
+IUsersDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/permission/dao/IUsersDao.java
+END

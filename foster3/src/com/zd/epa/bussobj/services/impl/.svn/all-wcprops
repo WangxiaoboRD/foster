@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/bussobj/services/impl
+END
+BussObjPropertyServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/bussobj/services/impl/BussObjPropertyServiceImpl.java
+END
+MethodDescServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/bussobj/services/impl/MethodDescServiceImpl.java
+END
+BaseTableColumnServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/bussobj/services/impl/BaseTableColumnServiceImpl.java
+END
+BaseTableServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/bussobj/services/impl/BaseTableServiceImpl.java
+END
+MethodDescDetailServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/bussobj/services/impl/MethodDescDetailServiceImpl.java
+END
+BussinessEleServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/bussobj/services/impl/BussinessEleServiceImpl.java
+END
+BussinessObjectServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/bussobj/services/impl/BussinessObjectServiceImpl.java
+END
+BussinessEleDetailServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/bussobj/services/impl/BussinessEleDetailServiceImpl.java
+END

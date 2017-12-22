@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/material/services/impl
+END
+MaterialServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/material/services/impl/MaterialServiceImpl.java
+END
+DrugServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/material/services/impl/DrugServiceImpl.java
+END
+FeedServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/material/services/impl/FeedServiceImpl.java
+END
+FeedTypeServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/material/services/impl/FeedTypeServiceImpl.java
+END

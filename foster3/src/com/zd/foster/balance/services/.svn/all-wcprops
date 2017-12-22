@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/balance/services
+END
+ICompanySaleIncomeService.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/balance/services/ICompanySaleIncomeService.java
+END
+IFarmerOtherCostService.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/balance/services/IFarmerOtherCostService.java
+END
+ICompanyBillService.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/balance/services/ICompanyBillService.java
+END
+IFarmerRewardCostService.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/balance/services/IFarmerRewardCostService.java
+END
+IFarmerPigletCostService.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/balance/services/IFarmerPigletCostService.java
+END
+IFarmerDrugsCostService.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/balance/services/IFarmerDrugsCostService.java
+END
+ICompanyBalanceService.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/balance/services/ICompanyBalanceService.java
+END
+IFarmerSaleIncomeService.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/balance/services/IFarmerSaleIncomeService.java
+END
+IFarmerBillService.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/balance/services/IFarmerBillService.java
+END
+ICompanyFreightService.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/balance/services/ICompanyFreightService.java
+END
+ICompanyDrugCostService.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/balance/services/ICompanyDrugCostService.java
+END
+IFarmerBalanceService.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/balance/services/IFarmerBalanceService.java
+END
+ICompanyFeedCostService.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/balance/services/ICompanyFeedCostService.java
+END
+IFarmerFeedCostService.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/balance/services/IFarmerFeedCostService.java
+END
+ICompanyOtherCostService.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/balance/services/ICompanyOtherCostService.java
+END
+ICompanyPigletCostService.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/balance/services/ICompanyPigletCostService.java
+END

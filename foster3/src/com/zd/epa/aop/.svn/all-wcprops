@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/aop
+END
+DataAuthorityAspect.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/aop/DataAuthorityAspect.java
+END
+IdOperAspect.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/aop/IdOperAspect.java
+END
+ExceptionAspect_temp.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/aop/ExceptionAspect_temp.java
+END
+AopPointcut.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/aop/AopPointcut.java
+END
+DebugServiceAspect.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/aop/DebugServiceAspect.java
+END
+ModifyLogAspect.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/aop/ModifyLogAspect.java
+END
+DebugDaoAspect.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/aop/DebugDaoAspect.java
+END
+EntityInterceotor.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/aop/EntityInterceotor.java
+END
+LoginLogAspect.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/aop/LoginLogAspect.java
+END
+IdTypeHandlerAspect.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/aop/IdTypeHandlerAspect.java
+END
+ExceptionAspect.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/aop/ExceptionAspect.java
+END

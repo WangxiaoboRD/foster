@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/price/dao
+END
+IDrugPriceDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/price/dao/IDrugPriceDao.java
+END
+IMaterialPriceDtlDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/price/dao/IMaterialPriceDtlDao.java
+END
+IFeedPriceDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/price/dao/IFeedPriceDao.java
+END
+IDrugPriceDtlDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/price/dao/IDrugPriceDtlDao.java
+END
+IFreightDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/price/dao/IFreightDao.java
+END
+IFeedPriceDtlDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/price/dao/IFeedPriceDtlDao.java
+END
+IFreightDtlDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/price/dao/IFreightDtlDao.java
+END
+IMaterialPriceDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/price/dao/IMaterialPriceDao.java
+END

@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/balance/dao
+END
+ICompanyPigletCostDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/balance/dao/ICompanyPigletCostDao.java
+END
+ICompanySaleIncomeDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/balance/dao/ICompanySaleIncomeDao.java
+END
+IFarmerOtherCostDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/balance/dao/IFarmerOtherCostDao.java
+END
+ICompanyBillDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/balance/dao/ICompanyBillDao.java
+END
+IFarmerRewardCostDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/balance/dao/IFarmerRewardCostDao.java
+END
+IFarmerPigletCostDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/balance/dao/IFarmerPigletCostDao.java
+END
+IFarmerDrugsCostDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/balance/dao/IFarmerDrugsCostDao.java
+END
+ICompanyBalanceDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/balance/dao/ICompanyBalanceDao.java
+END
+IFarmerSaleIncomeDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/balance/dao/IFarmerSaleIncomeDao.java
+END
+IFarmerBillDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/balance/dao/IFarmerBillDao.java
+END
+ICompanyFreightDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/balance/dao/ICompanyFreightDao.java
+END
+ICompanyDrugCostDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/balance/dao/ICompanyDrugCostDao.java
+END
+IFarmerBalanceDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/balance/dao/IFarmerBalanceDao.java
+END
+ICompanyFeedCostDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/balance/dao/ICompanyFeedCostDao.java
+END
+IFarmerFeedCostDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/balance/dao/IFarmerFeedCostDao.java
+END
+ICompanyOtherCostDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/balance/dao/ICompanyOtherCostDao.java
+END

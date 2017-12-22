@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/bussobj/dao/impl
+END
+BussObjPropertyDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/bussobj/dao/impl/BussObjPropertyDaoImpl.java
+END
+MethodDescDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/bussobj/dao/impl/MethodDescDaoImpl.java
+END
+BaseTableColumnDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/bussobj/dao/impl/BaseTableColumnDaoImpl.java
+END
+BaseTableDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/bussobj/dao/impl/BaseTableDaoImpl.java
+END
+MethodDescDetailDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/bussobj/dao/impl/MethodDescDetailDaoImpl.java
+END
+BussinessEleDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/bussobj/dao/impl/BussinessEleDaoImpl.java
+END
+BussinessObjectDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/bussobj/dao/impl/BussinessObjectDaoImpl.java
+END
+BussinessEleDetailDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/bussobj/dao/impl/BussinessEleDetailDaoImpl.java
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/bussobj/actions
+END
+BaseTableAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/bussobj/actions/BaseTableAction.java
+END
+MethodDescDetailAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/bussobj/actions/MethodDescDetailAction.java
+END
+BussinessEleAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/bussobj/actions/BussinessEleAction.java
+END
+BussinessObjectAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/bussobj/actions/BussinessObjectAction.java
+END
+BussinessEleDetailAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/bussobj/actions/BussinessEleDetailAction.java
+END
+BussObjPropertyAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/bussobj/actions/BussObjPropertyAction.java
+END
+MethodDescAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/bussobj/actions/MethodDescAction.java
+END
+BaseTableColumnAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/bussobj/actions/BaseTableColumnAction.java
+END

@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/breed/dao
+END
+IFeedUseDetailDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/breed/dao/IFeedUseDetailDao.java
+END
+IMobileEntityDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/breed/dao/IMobileEntityDao.java
+END
+IMedicalBillDtlDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/breed/dao/IMedicalBillDtlDao.java
+END
+IMaterialBillDtlDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/breed/dao/IMaterialBillDtlDao.java
+END
+IFeedBillDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/breed/dao/IFeedBillDao.java
+END
+IPigPurchaseDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/breed/dao/IPigPurchaseDao.java
+END
+IFeedBillDtlDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/breed/dao/IFeedBillDtlDao.java
+END
+IEliminateBillDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/breed/dao/IEliminateBillDao.java
+END
+IEliminateBillDtlDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/breed/dao/IEliminateBillDtlDao.java
+END
+IFeedUseDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/breed/dao/IFeedUseDao.java
+END
+IBatchDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/breed/dao/IBatchDao.java
+END
+IDeathBillDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/breed/dao/IDeathBillDao.java
+END
+IDeathBillDtlDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/breed/dao/IDeathBillDtlDao.java
+END
+IMedicalBillDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/breed/dao/IMedicalBillDao.java
+END
+IMaterialBillDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/breed/dao/IMaterialBillDao.java
+END

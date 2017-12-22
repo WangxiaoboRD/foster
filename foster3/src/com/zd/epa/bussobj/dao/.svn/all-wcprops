@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/bussobj/dao
+END
+IBaseTableDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/bussobj/dao/IBaseTableDao.java
+END
+IMethodDescDetailDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/bussobj/dao/IMethodDescDetailDao.java
+END
+IBussinessEleDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/bussobj/dao/IBussinessEleDao.java
+END
+IBussinessObjectDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/bussobj/dao/IBussinessObjectDao.java
+END
+IBussinessEleDetailDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/bussobj/dao/IBussinessEleDetailDao.java
+END
+IBussObjPropertyDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/bussobj/dao/IBussObjPropertyDao.java
+END
+IMethodDescDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/bussobj/dao/IMethodDescDao.java
+END
+IBaseTableColumnDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/bussobj/dao/IBaseTableColumnDao.java
+END

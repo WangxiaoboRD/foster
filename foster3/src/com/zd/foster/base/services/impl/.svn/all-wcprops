@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/base/services/impl
+END
+DeathReasonServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/base/services/impl/DeathReasonServiceImpl.java
+END
+DeathReasonTypeServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/base/services/impl/DeathReasonTypeServiceImpl.java
+END
+SysConfigServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/base/services/impl/SysConfigServiceImpl.java
+END
+TechnicianServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/base/services/impl/TechnicianServiceImpl.java
+END
+CompanyServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/base/services/impl/CompanyServiceImpl.java
+END
+GrowStandServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/base/services/impl/GrowStandServiceImpl.java
+END
+FcrServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/base/services/impl/FcrServiceImpl.java
+END
+GrowStandDtlServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/base/services/impl/GrowStandDtlServiceImpl.java
+END
+FarmerServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/base/services/impl/FarmerServiceImpl.java
+END
+FeedFacServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/base/services/impl/FeedFacServiceImpl.java
+END
+TransportCoServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/base/services/impl/TransportCoServiceImpl.java
+END
+CustVenderServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/base/services/impl/CustVenderServiceImpl.java
+END
+VarietyServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/base/services/impl/VarietyServiceImpl.java
+END
+TechBatchServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/base/services/impl/TechBatchServiceImpl.java
+END
+DevelopManServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/base/services/impl/DevelopManServiceImpl.java
+END
+DriverServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/base/services/impl/DriverServiceImpl.java
+END

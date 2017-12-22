@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/breed/services
+END
+IMedicalBillDtlService.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/breed/services/IMedicalBillDtlService.java
+END
+IMaterialBillDtlService.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/breed/services/IMaterialBillDtlService.java
+END
+IFeedBillService.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/breed/services/IFeedBillService.java
+END
+IPigPurchaseService.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/breed/services/IPigPurchaseService.java
+END
+IFeedBillDtlService.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/breed/services/IFeedBillDtlService.java
+END
+IEliminateBillService.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/breed/services/IEliminateBillService.java
+END
+IEliminateBillDtlService.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/breed/services/IEliminateBillDtlService.java
+END
+IFeedUseService.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/breed/services/IFeedUseService.java
+END
+IBatchService.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/breed/services/IBatchService.java
+END
+IDeathBillService.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/breed/services/IDeathBillService.java
+END
+IDeathBillDtlService.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/breed/services/IDeathBillDtlService.java
+END
+IMedicalBillService.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/breed/services/IMedicalBillService.java
+END
+IMaterialBillService.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/breed/services/IMaterialBillService.java
+END
+IFeedUseDetailService.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/breed/services/IFeedUseDetailService.java
+END
+IMobileEntityService.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/cp/!svn/ver/2610/foster3/src/com/zd/foster/breed/services/IMobileEntityService.java
+END

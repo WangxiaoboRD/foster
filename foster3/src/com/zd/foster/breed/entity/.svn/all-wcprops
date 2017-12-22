@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/breed/entity
+END
+MedicalBill.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/breed/entity/MedicalBill.java
+END
+MaterialBill.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/breed/entity/MaterialBill.java
+END
+FeedUseDetail.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/breed/entity/FeedUseDetail.java
+END
+MobileEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/breed/entity/MobileEntity.java
+END
+MedicalBillDtl.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/breed/entity/MedicalBillDtl.java
+END
+MaterialBillDtl.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/breed/entity/MaterialBillDtl.java
+END
+FeedBill.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/breed/entity/FeedBill.java
+END
+PigPurchase.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/breed/entity/PigPurchase.java
+END
+FeedBillDtl.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/breed/entity/FeedBillDtl.java
+END
+EliminateBill.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/breed/entity/EliminateBill.java
+END
+EliminateBillDtl.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/breed/entity/EliminateBillDtl.java
+END
+FeedUse.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/breed/entity/FeedUse.java
+END
+Batch.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/breed/entity/Batch.java
+END
+DeathBill.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/breed/entity/DeathBill.java
+END
+DeathBillDtl.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/breed/entity/DeathBillDtl.java
+END

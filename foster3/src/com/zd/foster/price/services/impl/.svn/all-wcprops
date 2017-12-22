@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/price/services/impl
+END
+FreightDtlServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/price/services/impl/FreightDtlServiceImpl.java
+END
+MaterialPriceServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/price/services/impl/MaterialPriceServiceImpl.java
+END
+DrugPriceServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/price/services/impl/DrugPriceServiceImpl.java
+END
+MaterialPriceDtlServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/price/services/impl/MaterialPriceDtlServiceImpl.java
+END
+FeedPriceServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/price/services/impl/FeedPriceServiceImpl.java
+END
+DrugPriceDtlServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/price/services/impl/DrugPriceDtlServiceImpl.java
+END
+FreightServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/price/services/impl/FreightServiceImpl.java
+END
+FeedPriceDtlServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/price/services/impl/FeedPriceDtlServiceImpl.java
+END

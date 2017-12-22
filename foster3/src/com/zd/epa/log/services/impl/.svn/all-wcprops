@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/log/services/impl
+END
+BussOperateLogServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/log/services/impl/BussOperateLogServiceImpl.java
+END
+ExceptionLogServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/log/services/impl/ExceptionLogServiceImpl.java
+END
+ModifyLogObjectServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/log/services/impl/ModifyLogObjectServiceImpl.java
+END
+OperateLogServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/log/services/impl/OperateLogServiceImpl.java
+END
+LogMethodServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/log/services/impl/LogMethodServiceImpl.java
+END
+LogTypeServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/log/services/impl/LogTypeServiceImpl.java
+END
+LogClassServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/log/services/impl/LogClassServiceImpl.java
+END
+ModifyLogServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/log/services/impl/ModifyLogServiceImpl.java
+END
+LoginLogServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/log/services/impl/LoginLogServiceImpl.java
+END

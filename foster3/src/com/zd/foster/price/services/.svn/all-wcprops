@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/price/services
+END
+IMaterialPriceDtlService.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/price/services/IMaterialPriceDtlService.java
+END
+IFeedPriceService.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/price/services/IFeedPriceService.java
+END
+IDrugPriceDtlService.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/price/services/IDrugPriceDtlService.java
+END
+IFreightService.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/price/services/IFreightService.java
+END
+IFeedPriceDtlService.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/price/services/IFeedPriceDtlService.java
+END
+IFreightDtlService.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/price/services/IFreightDtlService.java
+END
+IMaterialPriceService.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/price/services/IMaterialPriceService.java
+END
+IDrugPriceService.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/price/services/IDrugPriceService.java
+END

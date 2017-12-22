@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/number/services/impl
+END
+NumberCacheServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/number/services/impl/NumberCacheServiceImpl.java
+END
+NumberConfigServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/number/services/impl/NumberConfigServiceImpl.java
+END
+VacantRuleServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/number/services/impl/VacantRuleServiceImpl.java
+END
+VacantManageServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/number/services/impl/VacantManageServiceImpl.java
+END
+VacantNumberServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/number/services/impl/VacantNumberServiceImpl.java
+END
+NumberServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/number/services/impl/NumberServiceImpl.java
+END
+NumberDetailServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/number/services/impl/NumberDetailServiceImpl.java
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/number/entity
+END
+VacantRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/number/entity/VacantRule.java
+END
+VacantManage.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/number/entity/VacantManage.java
+END
+VacantNumber.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/number/entity/VacantNumber.java
+END
+Number.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/number/entity/Number.java
+END
+NumberDetail.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/number/entity/NumberDetail.java
+END
+NumberCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/number/entity/NumberCache.java
+END
+NumberConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/number/entity/NumberConfig.java
+END

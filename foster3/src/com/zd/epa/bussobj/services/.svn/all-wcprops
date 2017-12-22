@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/bussobj/services
+END
+IBussinessObjectService.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/bussobj/services/IBussinessObjectService.java
+END
+IBussinessEleDetailService.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/bussobj/services/IBussinessEleDetailService.java
+END
+IBussObjPropertyService.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/bussobj/services/IBussObjPropertyService.java
+END
+IMethodDescService.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/bussobj/services/IMethodDescService.java
+END
+IBaseTableColumnService.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/bussobj/services/IBaseTableColumnService.java
+END
+IBaseTableService.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/bussobj/services/IBaseTableService.java
+END
+IMethodDescDetailService.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/bussobj/services/IMethodDescDetailService.java
+END
+IBussinessEleService.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/bussobj/services/IBussinessEleService.java
+END

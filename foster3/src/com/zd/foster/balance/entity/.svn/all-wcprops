@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/balance/entity
+END
+CompanyOtherCost.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/balance/entity/CompanyOtherCost.java
+END
+CompanyPigletCost.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/balance/entity/CompanyPigletCost.java
+END
+CompanySaleIncome.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/balance/entity/CompanySaleIncome.java
+END
+FarmerOtherCost.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/balance/entity/FarmerOtherCost.java
+END
+CompanyBill.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/balance/entity/CompanyBill.java
+END
+FarmerRewardCost.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/balance/entity/FarmerRewardCost.java
+END
+FarmerPigletCost.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/balance/entity/FarmerPigletCost.java
+END
+FarmerDrugsCost.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/balance/entity/FarmerDrugsCost.java
+END
+CompanyBalance.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/balance/entity/CompanyBalance.java
+END
+FarmerSaleIncome.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/balance/entity/FarmerSaleIncome.java
+END
+FarmerBill.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/balance/entity/FarmerBill.java
+END
+CompanyFreight.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/balance/entity/CompanyFreight.java
+END
+CompanyDrugCost.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/balance/entity/CompanyDrugCost.java
+END
+FarmerBalance.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/balance/entity/FarmerBalance.java
+END
+CompanyFeedCost.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/balance/entity/CompanyFeedCost.java
+END
+FarmerFeedCost.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/balance/entity/FarmerFeedCost.java
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/cp/!svn/ver/2607/foster3/lib/hibernate/slf
+END
+slf4j-api-1.6.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/cp/!svn/ver/2607/foster3/lib/hibernate/slf/slf4j-api-1.6.1.jar
+END
+log4j-1.2.16.jar
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/cp/!svn/ver/2607/foster3/lib/hibernate/slf/log4j-1.2.16.jar
+END
+slf4j-log4j12-1.6.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/cp/!svn/ver/2607/foster3/lib/hibernate/slf/slf4j-log4j12-1.6.1.jar
+END

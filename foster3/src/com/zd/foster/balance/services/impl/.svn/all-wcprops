@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/balance/services/impl
+END
+CompanyOtherCostServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/balance/services/impl/CompanyOtherCostServiceImpl.java
+END
+CompanyPigletCostServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/balance/services/impl/CompanyPigletCostServiceImpl.java
+END
+CompanySaleIncomeServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/balance/services/impl/CompanySaleIncomeServiceImpl.java
+END
+FarmerOtherCostServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/balance/services/impl/FarmerOtherCostServiceImpl.java
+END
+CompanyBillServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/balance/services/impl/CompanyBillServiceImpl.java
+END
+FarmerRewardCostServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/balance/services/impl/FarmerRewardCostServiceImpl.java
+END
+FarmerPigletCostServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/balance/services/impl/FarmerPigletCostServiceImpl.java
+END
+FarmerDrugsCostServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/balance/services/impl/FarmerDrugsCostServiceImpl.java
+END
+CompanyBalanceServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/balance/services/impl/CompanyBalanceServiceImpl.java
+END
+FarmerSaleIncomeServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/balance/services/impl/FarmerSaleIncomeServiceImpl.java
+END
+FarmerBillServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/balance/services/impl/FarmerBillServiceImpl.java
+END
+CompanyFreightServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/balance/services/impl/CompanyFreightServiceImpl.java
+END
+CompanyDrugCostServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/balance/services/impl/CompanyDrugCostServiceImpl.java
+END
+FarmerBalanceServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/balance/services/impl/FarmerBalanceServiceImpl.java
+END
+CompanyFeedCostServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/balance/services/impl/CompanyFeedCostServiceImpl.java
+END
+FarmerFeedCostServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/balance/services/impl/FarmerFeedCostServiceImpl.java
+END

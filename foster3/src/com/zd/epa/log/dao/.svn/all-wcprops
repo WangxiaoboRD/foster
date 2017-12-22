@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/log/dao
+END
+ILogMethodDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/log/dao/ILogMethodDao.java
+END
+ILogTypeDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/log/dao/ILogTypeDao.java
+END
+ILogClassDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/log/dao/ILogClassDao.java
+END
+IModifyLogDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/log/dao/IModifyLogDao.java
+END
+ILoginLogDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/log/dao/ILoginLogDao.java
+END
+IBussOperateLogDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/log/dao/IBussOperateLogDao.java
+END
+IExceptionLogDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/log/dao/IExceptionLogDao.java
+END
+IModifyLogObjectDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/log/dao/IModifyLogObjectDao.java
+END
+IOperateLogDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/log/dao/IOperateLogDao.java
+END

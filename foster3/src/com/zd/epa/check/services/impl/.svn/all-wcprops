@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/check/services/impl
+END
+CheckServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/check/services/impl/CheckServiceImpl.java
+END
+CheckRoleServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/check/services/impl/CheckRoleServiceImpl.java
+END
+CheckBillServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/check/services/impl/CheckBillServiceImpl.java
+END
+CheckBillStateServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/check/services/impl/CheckBillStateServiceImpl.java
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/number/dao
+END
+IVacantRuleDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/number/dao/IVacantRuleDao.java
+END
+IVacantManageDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/number/dao/IVacantManageDao.java
+END
+IVacantNumberDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/number/dao/IVacantNumberDao.java
+END
+INumberDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/number/dao/INumberDao.java
+END
+INumberDetailDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/number/dao/INumberDetailDao.java
+END
+INumberCacheDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/number/dao/INumberCacheDao.java
+END
+INumberConfigDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/number/dao/INumberConfigDao.java
+END

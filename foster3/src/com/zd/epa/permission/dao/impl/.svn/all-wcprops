@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/permission/dao/impl
+END
+AuthObjDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/permission/dao/impl/AuthObjDaoImpl.java
+END
+UserAuthValueDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/permission/dao/impl/UserAuthValueDaoImpl.java
+END
+BussObjAuthPropertyDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/permission/dao/impl/BussObjAuthPropertyDaoImpl.java
+END
+ItemDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/permission/dao/impl/ItemDaoImpl.java
+END
+RoleAuthValueDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/permission/dao/impl/RoleAuthValueDaoImpl.java
+END
+RoleDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/permission/dao/impl/RoleDaoImpl.java
+END
+UsersDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/permission/dao/impl/UsersDaoImpl.java
+END
+RoleAuthValueDetailDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/permission/dao/impl/RoleAuthValueDetailDaoImpl.java
+END
+AuthFieldDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/permission/dao/impl/AuthFieldDaoImpl.java
+END

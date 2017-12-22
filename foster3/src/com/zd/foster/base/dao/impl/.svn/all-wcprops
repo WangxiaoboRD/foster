@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/base/dao/impl
+END
+DevelopManDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/base/dao/impl/DevelopManDaoImpl.java
+END
+DriverDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/base/dao/impl/DriverDaoImpl.java
+END
+DeathReasonDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/base/dao/impl/DeathReasonDaoImpl.java
+END
+DeathReasonTypeDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/base/dao/impl/DeathReasonTypeDaoImpl.java
+END
+SysConfigDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/base/dao/impl/SysConfigDaoImpl.java
+END
+TechnicianDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/base/dao/impl/TechnicianDaoImpl.java
+END
+CompanyDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/base/dao/impl/CompanyDaoImpl.java
+END
+GrowStandDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/base/dao/impl/GrowStandDaoImpl.java
+END
+FcrDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/base/dao/impl/FcrDaoImpl.java
+END
+GrowStandDtlDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/base/dao/impl/GrowStandDtlDaoImpl.java
+END
+FarmerDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/base/dao/impl/FarmerDaoImpl.java
+END
+FeedFacDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/base/dao/impl/FeedFacDaoImpl.java
+END
+TransportCoDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/base/dao/impl/TransportCoDaoImpl.java
+END
+CustVenderDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/base/dao/impl/CustVenderDaoImpl.java
+END
+VarietyDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/base/dao/impl/VarietyDaoImpl.java
+END
+TechBatchDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/foster/base/dao/impl/TechBatchDaoImpl.java
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/quartz/entity
+END
+QuartzJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/quartz/entity/QuartzJob.java
+END
+QuartzGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/quartz/entity/QuartzGroup.java
+END
+QuartzCron.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/cp/!svn/ver/2607/foster3/src/com/zd/epa/quartz/entity/QuartzCron.java
+END
